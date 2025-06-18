@@ -165,7 +165,7 @@ body {
   z-index: 1;
 }
 
-.six img {
+.six .img {
   display: inline-block;
   height: 350px;
   max-width: 100%;
@@ -176,8 +176,9 @@ body {
   left: 44%;
   position: absolute;
   /* transform: scale(0.1); */
-  top: -40%;
+  top: -10%;
   width: 80px;
+  z-index: 9;
 }
 
 .baloons img {
