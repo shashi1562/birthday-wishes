@@ -15,7 +15,7 @@ Create personalized birthday wishes with style and ease! This project allows you
 
     ```bash  
     # Clone this repository
-    $ git clone https://github.com/afsify/happy-birthday  
+    $ git clone https://github.com/shashi1562/birthday-wishes  
 
     # Navigate to the project directory  
     $ cd birthday-wishes-generator  
@@ -40,7 +40,7 @@ Create personalized birthday wishes with style and ease! This project allows you
 
 ## Live Demo  
 
-Check out the demo: [https://afsify.github.io/happy-birthday](https://afsify.github.io/happy-birthday)  
+Check out the demo: https://shashi1562.github.io/birthday-wishes/
 
 ## Technologies Used  
 
