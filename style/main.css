@@ -176,7 +176,7 @@ body {
   left: 44%;
   position: absolute;
   /* transform: scale(0.1); */
-  top: -10%;
+  top: -20%;
   width: 80px;
   z-index: 9;
 }
@@ -317,7 +317,7 @@ body {
   }
 
   .six .hat {
-    /* top: -20px; */
+    top: 10%;
     width: 50px;
   }
 
